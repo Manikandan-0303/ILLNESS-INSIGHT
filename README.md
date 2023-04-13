@@ -1,5 +1,6 @@
 # ILLNESS-INSIGHT
 The Illness Insight is a disease prediction system that uses machine learning algorithms to analyse and interpret a patient's medical history to predict the likelihood of developing a certain disease.
+https://manikandan-0303-illness-insight-mdps-public-t077j9.streamlit.app/
 
 # Project Structure:
 The project has the following structure:
